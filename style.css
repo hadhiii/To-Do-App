@@ -9,3 +9,12 @@
   align-items: center;
   gap: 8px;
 }
+.add-task {
+  display: flex;
+  gap: 4px;
+}
+
+.task {
+  display: flex;
+  gap: 4px;
+}
